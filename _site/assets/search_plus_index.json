@@ -8,14 +8,19 @@
     "keywords": "Jekyll",
     "url": "/others/contact/",
     "body": "This is an contact page."
-  },"/pages/machine_learning/FPGA/fpga/": {
+  },"/pages/FPGA/fpga/": {
     "title": "FPGA",
-    "keywords": "hardward",
-    "url": "/pages/machine_learning/FPGA/fpga/",
+    "keywords": "hardware",
+    "url": "/pages/FPGA/fpga/",
     "body": ""
   },"/pages/machine_learning/machine_learning/": {
     "title": "Machine Learning",
     "keywords": "machine learning",
     "url": "/pages/machine_learning/machine_learning/",
     "body": "머신러닝이 무엇인지에 대하여 알아보자. PCA에 대하여 pca는 무엇인가$math$ \\[x_1 + y_1 = 34\\] import torch this.coding = range(python)"
+  },"/pages/machine_learning/pca/": {
+    "title": "Eigen decomposition, Lagrange Multiplier, and Principle Component Analysis",
+    "keywords": "machine learning",
+    "url": "/pages/machine_learning/pca/",
+    "body": "Math is a tool. Sometimes this just makes sense.      It was hard for me to understand the concept of Principle Component Analysis(PCA) eventhough I used it a lot when reducing dimensions. So I tried to share how PCAs work friendly by explaining the concept step by step. Eigen decomposition For us to explain the concept, first let’s talk about why we need decomposition      For me, it was quite hard to understand the concept of PCA even though it was broadly used as reducing dimensions of the data. When I first learned eigen decomposition, I was kind of flinched by its unfamiliar name. So I neglected this concept way after I’ve learned PCA. But I’ve got too curious to findout what was happening inside PCA and I’ve tried my best to understand the theorm and the concept. Also, these days LLMs like chatGPT is super intelligent and these LLMs keep my interest from not getting blown away by giving me tips for me to understand the concept or theorems, that I am messed up at. So I could kind of easily get to the results then before. So by getting help from various materials, I found out that math itself could be a tool."
   }}

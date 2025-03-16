@@ -1,7 +1,5 @@
 ---
 title: Machine Learning
-# author: 
-date: 2022-06-26
 category: machine learning
 layout: post
 ---
