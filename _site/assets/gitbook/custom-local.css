@@ -3,3 +3,35 @@
  * Its purpose is for users of the theme to be able to add css rules from a blank file
  *   these get simply added to the ones already active in the layout.
  */
+/* Make code background completely black */
+pre, code {
+    background: #333 !important; /* Pure black background */
+    color: #f8f8f2 !important; /* Light text for contrast */
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 14px;
+    overflow-x: auto;
+}
+
+/* Ensure inline code inside paragraphs also has a black background */
+/* code { */
+    /* background: #333; */
+    /* color: #ff79c6; Brighter color for better readability */
+    /* padding: 2px 5px; */
+    /* border-radius: 3px; */
+/* } */
+
+
+/* .highlight pre { */
+    /* background: #333 !important; */
+    /* color: #f8f8f2; */
+    /* font-size: 14px; */
+/* } */
+
+/*Rouge syntax colors */
+/* .highlight .k { color: #66d9ef; } /*Keywords - Blue */
+/* .highlight .s { color: #e6db74; } Strings - Yellow */
+/* .highlight .c { color: #75715e; font-style: italic; } Comments - Gray */
+/* .highlight .n { color: #a6e22e; } Variables - Green */
+/* .highlight .o { color: #f92672; } Operators - Pink */
+/* .highlight .p { color: #ffffff; } Punctuation - White */

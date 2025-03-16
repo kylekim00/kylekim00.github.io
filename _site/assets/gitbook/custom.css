@@ -239,6 +239,7 @@
 }
 
 pre:has(code.language-mermaid[data-processed="true"]) {
+    /* background-color: #000000; */
     background-color: #ffffff;
     text-align: center;
 }
